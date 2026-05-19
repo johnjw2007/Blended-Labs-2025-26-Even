@@ -28,14 +28,17 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Explored IAM groups: EC2-Admin, EC2-Support, S3-Support  
 - Inspected managed and inline policies attached to groups  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1261" height="573" alt="image" src="https://github.com/user-attachments/assets/6a085468-3db8-453e-9a27-74b9de21c0ff" />
+<img width="1257" height="587" alt="image" src="https://github.com/user-attachments/assets/f00908bd-ab50-4b90-b8f5-4f190aabab59" />
 
 ### Task 2: Add Users to Groups
 - Added user-1 to the S3-Support group  
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+<img width="1255" height="588" alt="image" src="https://github.com/user-attachments/assets/80403f0b-da53-410c-9a22-106fcd59eeee" />
+<img width="1240" height="547" alt="image" src="https://github.com/user-attachments/assets/72da1cf2-3977-4c27-96d7-09430371f1f7" />
+<img width="1247" height="572" alt="image" src="https://github.com/user-attachments/assets/37fa39e0-33af-41c0-a1bd-9c1cd9823e04" />
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
@@ -43,8 +46,9 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Verified EC2 read-only access for user-2  
 - Verified EC2 administrative access for user-3  
 **Screenshot:**  
-(Add screenshot here)
-
+<img width="1258" height="572" alt="image" src="https://github.com/user-attachments/assets/baa19ef7-08d7-4d8a-b7d1-527dfa5597a8" />
+<img width="1257" height="572" alt="image" src="https://github.com/user-attachments/assets/81f1dc8e-464d-4e6a-8080-477f38958b89" />
+<img width="1256" height="582" alt="image" src="https://github.com/user-attachments/assets/f01a6aac-12fc-4c4f-84f1-0d74eb7c3567" />
 
 ## Workflow
 1. Accessed IAM console and reviewed users and groups.  
@@ -66,6 +70,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** Your Name and (Reg No)
+**Name:** John Wilfred Thomas J W 212224040141
 **Course:** Introduction to Cloud Computing  
 

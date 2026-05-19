@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: John Wilfred Thomas J W
+* **Register Number**: 212224040141
+* **Date of Submission**: 19.05.2026
 
 ---
 
@@ -87,11 +87,12 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create a VPC
+2. Create a Public Subnet
+3. Create and Attach Internet Gateway
+4. Configure Route Table
+5. Create  Security Group
+6. Configure Web Server
 
 ---
 
@@ -99,21 +100,15 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/da33efea-77fd-4362-8264-1cd3205305c4" />
 
----
 
 ### Screenshot 2: EC2 Instance Running
+<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/5dff8ea9-bd97-4f21-8a3d-f3b3545acf3c" />
 
-(Insert Screenshot Here)
-
----
 
 ### Screenshot 3: Web Server Output in Browser
-
-(Insert Screenshot Here)
-
----
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/65ba56b4-14ac-4970-811e-6e1d153fca6d" />
 
 ## Result 
 

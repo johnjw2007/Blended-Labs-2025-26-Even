@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: John Wilfred Thomas J W
+* **Register Number**: 212224040141
+* **Date of Submission**: 30.05.2026
 
 ---
 
@@ -30,8 +30,6 @@ The objective of this experiment is to understand the fundamentals of Amazon Ela
 * Key Pair
 * Security Group
 * SSH Client (PuTTY / Terminal)
-
----
 
 ## Tasks Performed
 
@@ -94,37 +92,32 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ---
 
-## Workflow (Student Explanation)
+## Workflow
 
-(Write the steps you followed in your own words)
+1.The EC2 Dashboard was accessed through the AWS Management Console to explore the Amazon EBS volume types.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2.A new EBS volume was created by selecting the volume type, size, and the same Availability Zone as the EC2 instance.
 
----
+3.The created EBS volume was attached to the running EC2 instance as an additional block device.
+
+4.The attached volume was formatted using the ext4 file system and mounted to a directory in the EC2 instance.
+
+5.Sample data was stored in the mounted volume, and after rebooting the instance, data persistence was verified successfully.
+
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
-
----
+<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/2c67c52d-816b-4551-8d5a-06a6e759fb86" />
+<img width="1913" height="982" alt="image" src="https://github.com/user-attachments/assets/6ef13899-6a4e-4597-a491-e9c893a61787" />
 
 ### Screenshot 2: SSH Connection to Instance
-
-(Insert Screenshot Here)
-
----
+<img width="1186" height="747" alt="image" src="https://github.com/user-attachments/assets/7d4c6045-13b1-4324-86d9-8e7479324708" />
 
 ### Screenshot 3: Instance Monitoring / Status
-
-(Insert Screenshot Here)
-
----
+<img width="1918" height="983" alt="image" src="https://github.com/user-attachments/assets/cdce62c1-3c57-4c43-a0a9-88eef5e0e977" />
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/405529f9-d123-4049-9f9d-01fd9bd9c45a" />
 
 ## Result 
 

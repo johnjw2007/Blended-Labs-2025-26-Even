@@ -4,9 +4,9 @@
 
 Scale and Load Balance Your Architecture
 ## Author 
-Name : John Wilfred Thomas J W
-Reg no : 212224040141
-Date : 30.05.2026
+**Name**: John Wilfred Thomas J W
+**Reg no**: 212224040141
+**Date**: 30.05.2026
 
 ---
 
@@ -69,7 +69,7 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 Describe step-by-step how you performed this experiment in your own words.
 
-1.Review Existing Architecture – Examine the previously created Amazon EC2 application setup and understand how the current infrastructure works. 
+1. Review Existing Architecture – Examine the previously created Amazon EC2 application setup and understand how the current infrastructure works. 
 2. Create Launch Template – Configure a launch template specifying the AMI, instance type, security group, and user data for EC2 instances. 
 3. Set Up Auto Scaling Group – Create an Auto Scaling Group using the launch template and define the minimum, maximum, and desired instance capacity. 
 4. Configure Application Load Balancer – Set up an AWS Application Load Balancer and create target groups to distribute incoming traffic across EC2 instances. 
